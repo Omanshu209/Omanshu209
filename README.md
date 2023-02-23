@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omanshu</h1>
 <h3 align="center">A python and C++ Developer.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omanshu209&label=Profile%20views&color=0e75b6&style=flat" alt="omanshu209" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/Omanshu209](https://www.github.com/Omanshu209)
