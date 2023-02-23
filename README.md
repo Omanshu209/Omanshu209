@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/Omanshu209](https://www.github.com/Omanshu209)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
