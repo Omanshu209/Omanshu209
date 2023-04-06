@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Omanshu</h1>
-<h3 align="center">A python and C++ Developer.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omanshu209&label=Profile%20views&color=0e75b6&style=flat" alt="omanshu209" /> </p>
 
