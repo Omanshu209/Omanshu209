@@ -15,7 +15,7 @@
 
 
 
-<h2> Quotes </h2>
+<h2> Quotes <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
