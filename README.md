@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Omanshu</h1>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omanshu209&label=Profile%20views&color=0e75b6&style=flat" alt="omanshu209" /> </p>
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif">
+
+Hello there! I'm a 15-year-old programming enthusiast with a keen interest in game development, app development, and machine learning. My journey into the world of programming started at a young age, and I've since honed my skills in various technologies and languages.
+
+
+When it comes to game development, I enjoy using Pygame in Python to bring my ideas to life. I've created several projects, experimenting with different game mechanics and graphics. Additionally, I'm well-versed in app development using Kivy and KivyMD, allowing me to design and build interactive and visually appealing applications.
+
+I also have a fascination with machine learning and its applications. While my experience in this field is still growing, I've dabbled with scikit-learn in Python to explore the fundamentals of machine learning algorithms and their potential uses.
+
+Beyond Python, I have experience in C++ and Java, allowing me to broaden my horizons and tackle different types of programming challenges. Moreover, I've ventured into the world of robotics using Arduino and ESP32, enabling me to combine software and hardware to create exciting projects.
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/Omanshu209](https://www.github.com/Omanshu209)
 
@@ -11,9 +20,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omanshu209&show_icons=true&theme=radical&locale=en&layout=compact&langs_count=15" alt="omanshu209" /></p>
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omanshu209&show_icons=true&theme=dracula&locale=en" alt="omanshu209" /></p>-->
-<br>
-
-
+:)
 
 <h2> Quotes <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
