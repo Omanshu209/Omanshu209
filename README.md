@@ -1,6 +1,7 @@
 <img src="https://github.com/Omanshu209/Omanshu209/assets/114089324/d8998bd3-13d6-4ce3-9b8c-9ad34c7990a2" width="1000" height="400" />
 
 <h1 align="center">Hi 👋, I'm Omanshu</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omanshu209&label=Profile%20views&color=0e75b6&style=flat" alt="omanshu209" /> </p>
 <img align="center" alt="coding" width="450" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif">
 
