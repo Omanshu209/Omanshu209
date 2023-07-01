@@ -1,15 +1,14 @@
 <!--<img src="https://github.com/Omanshu209/Omanshu209/assets/114089324/d8998bd3-13d6-4ce3-9b8c-9ad34c7990a2" width="1000" height="400" />-->
-![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/Omanshu209/Omanshu209/assets/114089324/063a08f4-7203-4457-b9f1-1a86af7e3bc7)
 
 # Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Omanshu
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omanshu209&label=Profile%20views&color=0e75b6&style=flat" alt="omanshu209" /> </p>
-<img align="center" alt="coding" width="450" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif">
 
+![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/Omanshu209/Omanshu209/assets/114089324/063a08f4-7203-4457-b9f1-1a86af7e3bc7)
 ```
 Hello there! I'm a programming enthusiast with a keen interest in game development, app development, and machine learning. My journey into the world of programming started at a young age, and I've since honed my skills in various technologies and languages.
 ```
-
+# My projects and repositories
+<img align="right" alt="coding" width="450" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif">
 - 👨‍💻 All of my projects are available at [Github](https://www.github.com/Omanshu209)
 
 <h2 align="left">Languages and Tools  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px></h2>
@@ -35,9 +34,9 @@ I also have a fascination with machine learning and its applications. While my e
 <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
 ```
 Beyond Python, I have experience in C++ and Java, allowing me to broaden my horizons and tackle different types of programming challenges. Moreover, I've ventured into the world of robotics using Arduino and ESP32, enabling me to combine software and hardware to create exciting projects.
 ```
 ## My GitHub Stats
-
 <a href="http://www.github.com/Omanshu209"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Omanshu209&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
