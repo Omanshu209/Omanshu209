@@ -9,6 +9,7 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
 ```
 ## My projects and repositories
 <img align="right" alt="coding" width="450" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif">
+
 - 👨‍💻 All of my projects are available at [Github](https://www.github.com/Omanshu209)
 
 <h2 align="left">Languages and Tools  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px></h2>
