@@ -20,7 +20,7 @@ Hello there! I'm a 15-year-old programming enthusiast with a keen interest in ga
 ```
 When it comes to game development, I enjoy using Pygame in Python to bring my ideas to life. I've created several projects, experimenting with different game mechanics and graphics. Additionally, I'm well-versed in app development using Kivy and KivyMD, allowing me to design and build interactive and visually appealing applications.
 ```
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omanshu209&show_icons=true&theme=dracula&locale=en" alt="omanshu209" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omanshu209&show_icons=true&theme=dracula&locale=en" alt="omanshu209" /></p>
 
 <h2> Quotes <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
 
