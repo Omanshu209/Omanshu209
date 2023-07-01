@@ -7,7 +7,7 @@
 <img align="center" alt="coding" width="450" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif">
 
 ```
-Hello there! I'm a 15-year-old programming enthusiast with a keen interest in game development, app development, and machine learning. My journey into the world of programming started at a young age, and I've since honed my skills in various technologies and languages.
+Hello there! I'm a programming enthusiast with a keen interest in game development, app development, and machine learning. My journey into the world of programming started at a young age, and I've since honed my skills in various technologies and languages.
 ```
 
 - 👨‍💻 All of my projects are available at [Github](https://www.github.com/Omanshu209)
