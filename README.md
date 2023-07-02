@@ -10,7 +10,7 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
 ## My projects and repositories
 <img align="center" alt="coding" width="450" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif">
 
-- 👨‍💻 All of my projects are available at [Github](https://www.github.com/Omanshu209)
+- 👨‍💻 **All of my projects are available at** [Github](https://www.github.com/Omanshu209)
 ### Top Repositories
 <a href="https://github.com/Omanshu209/HighwayHeist_Game"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=HighwayHeist_Game&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516"
 href="https://github.com/Omanshu209/HighwayHeist_Game" /></a>
