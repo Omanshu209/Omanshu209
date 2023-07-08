@@ -1,14 +1,17 @@
 <!--<img src="https://github.com/Omanshu209/Omanshu209/assets/114089324/d8998bd3-13d6-4ce3-9b8c-9ad34c7990a2" width="1000" height="400" />-->
+
 <div align = "center">
   <h1 align = "center">Hi, <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />I'm Omanshu
   </h1>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omanshu209&label=Profile%20views&color=0e75b6&style=flat" alt="omanshu209" /> </p>
 
-![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/Omanshu209/Omanshu209/assets/114089324/063a08f4-7203-4457-b9f1-1a86af7e3bc7)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omanshu209&label=Profile%20views&color=0e75b6&style=flat" alt="omanshu209" /> </p>
+<img src = "https://github.com/Omanshu209/Omanshu209/assets/114089324/063a08f4-7203-4457-b9f1-1a86af7e3bc7" />
+
 ```
 Hello there! I'm a programming enthusiast with a keen interest in game development, app development, and machine learning. My journey into the world of programming started at a young age, and I've since honed my skills in various technologies and languages.
 ```
+
 <div align = "center">
   <h2 align = "center">My projects and repositories
   </h2>
@@ -37,17 +40,16 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omanshu209&show_icons=true&theme=radical&locale=en&layout=compact&langs_count=15" alt="omanshu209" />
   </p>
 </div>
-<!--<<p align="left">• Python<br>• C++<br>• Arduino<br>• Java<br>• JavaScript<br>• NodeJS<br>• HTML</p>-->
 
 ```
 When it comes to game development, I enjoy using Pygame in Python to bring my ideas to life. I've created several projects, experimenting with different game mechanics and graphics. Additionally, I'm well-versed in app development using Kivy and KivyMD, allowing me to design and build interactive and visually appealing applications.
 ```
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omanshu209&show_icons=true&theme=dracula&locale=en" alt="omanshu209" /></p>-->
+
 <div align = "center">
   <h2> Quotes <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'>
   </h2>
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ```
@@ -55,16 +57,17 @@ I also have a fascination with machine learning and its applications. While my e
 ```
 
 <!--<img src="https://rm.up.railway.app/" width="512px"/>-->
+
 <div align = "center">
   <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'>
   </h2>
-  
-  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+  <img src = "https://readme-jokes.vercel.app/api?theme=default" />
 </div>
 
 ```
 Beyond Python, I have experience in C++ and Java, allowing me to broaden my horizons and tackle different types of programming challenges. Moreover, I've ventured into the world of robotics using Arduino and ESP32, enabling me to combine software and hardware to create exciting projects.
 ```
+
 <div align = "center">
   <h2 align = "center">My GitHub Stats
   </h2>
