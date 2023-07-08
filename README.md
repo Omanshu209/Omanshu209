@@ -1,51 +1,73 @@
 <!--<img src="https://github.com/Omanshu209/Omanshu209/assets/114089324/d8998bd3-13d6-4ce3-9b8c-9ad34c7990a2" width="1000" height="400" />-->
+<div align = "center">
 
-# Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Omanshu
+  # Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Omanshu
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omanshu209&label=Profile%20views&color=0e75b6&style=flat" alt="omanshu209" /> </p>
 
 ![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://github.com/Omanshu209/Omanshu209/assets/114089324/063a08f4-7203-4457-b9f1-1a86af7e3bc7)
 ```
 Hello there! I'm a programming enthusiast with a keen interest in game development, app development, and machine learning. My journey into the world of programming started at a young age, and I've since honed my skills in various technologies and languages.
 ```
-## My projects and repositories
-<img align="center" alt="coding" width="450" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif">
+<div align = "center">
+  
+  ## My projects and repositories
+  <img align="center" alt="coding" width="450" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif">
+  
+  **All of my `projects` are available at** [Github](https://www.github.com/Omanshu209)
+</div>
 
-- 👨‍💻 **All of my projects are available at** [Github](https://www.github.com/Omanshu209)
-### Top Repositories
-<a href="https://github.com/Omanshu209/HighwayHeist_Game"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=HighwayHeist_Game&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516"
-href="https://github.com/Omanshu209/HighwayHeist_Game" /></a>
-<a href="https://github.com/Omanshu209/PlatformerGame_ProductionPhase"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=PlatformerGame_ProductionPhase&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
-<a href="https://github.com/Omanshu209/Diagnosify_ML"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Diagnosify_ML&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
-<a href="https://github.com/Omanshu209/Pokedex"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Pokedex&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
-<a href="https://github.com/Omanshu209/ExploreWiki"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=ExploreWiki&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
-<a href="https://github.com/Omanshu209/PyDuino_Bot-WiFi"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=PyDuino_Bot-WiFi&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
+<div align = "center">
+  
+  ### Top Repositories
+  <a href="https://github.com/Omanshu209/HighwayHeist_Game"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=HighwayHeist_Game&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516"
+  href="https://github.com/Omanshu209/HighwayHeist_Game" /></a>
+  <a href="https://github.com/Omanshu209/PlatformerGame_ProductionPhase"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=PlatformerGame_ProductionPhase&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
+  <a href="https://github.com/Omanshu209/Diagnosify_ML"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Diagnosify_ML&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
+  <a href="https://github.com/Omanshu209/Pokedex"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Pokedex&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
+  <a href="https://github.com/Omanshu209/ExploreWiki"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=ExploreWiki&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
+  <a href="https://github.com/Omanshu209/PyDuino_Bot-WiFi"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=PyDuino_Bot-WiFi&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
+</div>
 
-<h2 align="left">Languages and Tools  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px></h2>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+<div align = "center">
+  <h2 align="center">Languages and Tools  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
+  </h2>
+  <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  </p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omanshu209&show_icons=true&theme=radical&locale=en&layout=compact&langs_count=15" alt="omanshu209" />
+  </p>
+</div>
 <!--<<p align="left">• Python<br>• C++<br>• Arduino<br>• Java<br>• JavaScript<br>• NodeJS<br>• HTML</p>-->
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omanshu209&show_icons=true&theme=radical&locale=en&layout=compact&langs_count=15" alt="omanshu209" /></p>
 
 ```
 When it comes to game development, I enjoy using Pygame in Python to bring my ideas to life. I've created several projects, experimenting with different game mechanics and graphics. Additionally, I'm well-versed in app development using Kivy and KivyMD, allowing me to design and build interactive and visually appealing applications.
 ```
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omanshu209&show_icons=true&theme=dracula&locale=en" alt="omanshu209" /></p>-->
-
-<h2> Quotes <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+<div align = "center">
+  <h2> Quotes <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'>
+  </h2>
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 ```
 I also have a fascination with machine learning and its applications. While my experience in this field is still growing, I've dabbled with scikit-learn in Python to explore the fundamentals of machine learning algorithms and their potential uses.
 ```
 
 <!--<img src="https://rm.up.railway.app/" width="512px"/>-->
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+<div align = "center">
+  <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'>
+  </h2>
+  
+  ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+</div>
 
 ```
 Beyond Python, I have experience in C++ and Java, allowing me to broaden my horizons and tackle different types of programming challenges. Moreover, I've ventured into the world of robotics using Arduino and ESP32, enabling me to combine software and hardware to create exciting projects.
 ```
-## My GitHub Stats
-<a href="http://www.github.com/Omanshu209"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Omanshu209&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align = "center">
+  
+  ## My GitHub Stats
+  <a href="http://www.github.com/Omanshu209"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Omanshu209&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+</div>
