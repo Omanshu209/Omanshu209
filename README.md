@@ -1,7 +1,6 @@
 <!--<img src="https://github.com/Omanshu209/Omanshu209/assets/114089324/d8998bd3-13d6-4ce3-9b8c-9ad34c7990a2" width="1000" height="400" />-->
-
 <div align = "center">
-  <h1 align = "center">Hi, <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />I'm Omanshu
+  <h1 align = "center">Hi, <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" height = "50" />I'm Omanshu
   </h1>
 </div>
 
