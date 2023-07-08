@@ -10,16 +10,16 @@
 Hello there! I'm a programming enthusiast with a keen interest in game development, app development, and machine learning. My journey into the world of programming started at a young age, and I've since honed my skills in various technologies and languages.
 ```
 <div align = "center">
-  
-  ## My projects and repositories
+  <h2 align = "center">My projects and repositories
+  </h2>
   <img align="center" alt="coding" width="450" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif">
   
   **All of my `projects` are available at** [Github](https://www.github.com/Omanshu209)
 </div>
 
 <div align = "center">
-  
-  ### Top Repositories
+  <h3 align = "center">Top Repositories (Projects)
+  </h3>
   <a href="https://github.com/Omanshu209/HighwayHeist_Game"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=HighwayHeist_Game&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516"
   href="https://github.com/Omanshu209/HighwayHeist_Game" /></a>
   <a href="https://github.com/Omanshu209/PlatformerGame_ProductionPhase"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=PlatformerGame_ProductionPhase&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
@@ -66,8 +66,8 @@ I also have a fascination with machine learning and its applications. While my e
 Beyond Python, I have experience in C++ and Java, allowing me to broaden my horizons and tackle different types of programming challenges. Moreover, I've ventured into the world of robotics using Arduino and ESP32, enabling me to combine software and hardware to create exciting projects.
 ```
 <div align = "center">
-  
-  ## My GitHub Stats
+  <h2 align = "center">My GitHub Stats
+  </h2>
   <a href="http://www.github.com/Omanshu209"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Omanshu209&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
 </div>
