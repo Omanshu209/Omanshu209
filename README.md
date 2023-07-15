@@ -71,7 +71,7 @@ Beyond Python, I have experience in C++ and Java, allowing me to broaden my hori
 <div align = "center">
   <h2 align = "center">My GitHub Stats
   </h2>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omanshu209&show_icons=true&theme=dracula&locale=en&hide=issues&rank_icon=github" alt="omanshu209" />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omanshu209&show_icons=true&theme=dracula&locale=en&hide=issues&rank_icon=github&include_all_commits=true" alt="omanshu209" />
   </p>
   <a href="http://www.github.com/Omanshu209"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Omanshu209&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
