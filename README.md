@@ -27,7 +27,7 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
   href="https://github.com/Omanshu209/HighwayHeist_Game" /></a>
   <a href="https://github.com/Omanshu209/ANN_ClassifierHub"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=ANN_ClassifierHub&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
   <a href="https://github.com/Omanshu209/Diagnosify_ML"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Diagnosify_ML&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
-  <a href="https://github.com/Omanshu209/Pokedex"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Pokedex&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
+  <a href="https://github.com/Omanshu209/PokeVinci"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=PokeVinci&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
   <a href="https://github.com/Omanshu209/ExploreWiki"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=ExploreWiki&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
   <a href="https://github.com/Omanshu209/PyDuino_Bot-WiFi"><img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=PyDuino_Bot-WiFi&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" /></a>
 </div>
