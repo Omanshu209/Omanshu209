@@ -65,7 +65,7 @@ I also have a fascination with machine learning and its applications. While my e
 </div>
 
 ```
-Beyond Python, I have experience in C++ and Java, allowing me to broaden my horizons and tackle different types of programming challenges. Moreover, I've ventured into the world of robotics using Arduino and ESP32, enabling me to combine software and hardware to create exciting projects.
+Beyond Python, I have experience in C++ and Java, allowing me to broaden my horizons and tackle different types of programming challenges.
 ```
 
 <div align = "center">
@@ -76,3 +76,7 @@ Beyond Python, I have experience in C++ and Java, allowing me to broaden my hori
   <a href="http://www.github.com/Omanshu209"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Omanshu209&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
 </div>
+
+```
+Moreover, I've ventured into the world of robotics using Arduino and ESP32, enabling me to combine software and hardware to create exciting projects.
+```
