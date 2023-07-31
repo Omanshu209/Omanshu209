@@ -6,7 +6,7 @@
 </div>
 
 <div align = "center">
-  <details>
+  <details open>
   <summary>
   <h2 align = "center">:)
   </h2>
@@ -22,7 +22,7 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
 </div>
 
 <div align = "center">
-  <details>
+  <details open>
   <summary>
   <h2 align = "center">My projects and repositories
   </h2>
@@ -44,7 +44,7 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
 </div>
 
 <div align = "center">
-  <details>
+  <details open>
   <summary>
   <h2 align="center">Languages and Tools  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px>
   </h2>
@@ -63,7 +63,7 @@ When it comes to game development, I enjoy using Pygame in Python to bring my id
 </div>
 
 <div align = "center">
-  <details>
+  <details open>
   <summary>
   <h2> Quotes <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'>
   </h2>
@@ -80,7 +80,7 @@ I also have a fascination with machine learning and its applications. While my e
 <!--<img src="https://rm.up.railway.app/" width="512px"/>-->
 
 <div align = "center">
-  <details>
+  <details open>
   <summary>
   <h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'>
   </h2>
@@ -95,7 +95,7 @@ Beyond Python, I have experience in C++ and Java, allowing me to broaden my hori
 </div>
 
 <div align = "center">
-  <details>
+  <details open>
   <summary>
   <h2 align = "center">My GitHub Stats
   </h2>
