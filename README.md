@@ -34,7 +34,9 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
   
   <img align="center" alt="coding" width="450" src="https://media.tenor.com/FpaDM99g9BUAAAAC/courage-the-cowardly-dog-coding.gif">
   
-  **All of my `projects` are available at** [Github](https://www.github.com/Omanshu209)
+  <p>
+  <strong>All of my <code>projects</code> are available at </strong><a href="https://www.github.com/Omanshu209">Github</a>
+  </p>
 
   <h3 align = "center">Top Repositories (Projects)
   </h3>
