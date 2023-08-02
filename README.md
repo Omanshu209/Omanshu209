@@ -17,9 +17,9 @@
   
   <img src = "https://github.com/Omanshu209/Omanshu209/assets/114089324/063a08f4-7203-4457-b9f1-1a86af7e3bc7" />
 
-  ```
+  <pre>
 Hello there! I'm a programming enthusiast with a keen interest in game development, app development, and machine learning. My journey into the world of programming started at a young age, and I've since honed my skills in various technologies and languages.
-  ```
+  </pre>
   
   </details>
 </div>
@@ -139,9 +139,9 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omanshu209&show_icons=true&theme=radical&locale=en&langs_count=10&layout=donut-vertical" alt="omanshu209" />
   </p>
   
-  ```
+  <pre>
 When it comes to game development, I enjoy using Pygame in Python to bring my ideas to life. I've created several projects, experimenting with different game mechanics and graphics. Additionally, I'm well-versed in app development using Kivy and KivyMD, allowing me to design and build interactive and visually appealing applications.
-  ```
+  </pre>
   
   </details>
 </div>
@@ -156,9 +156,9 @@ When it comes to game development, I enjoy using Pygame in Python to bring my id
   
   <img src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
   
-  ```
+  <pre>
 I also have a fascination with machine learning and its applications. While my experience in this field is still growing, I've dabbled with scikit-learn in Python to explore the fundamentals of machine learning algorithms and their potential uses.
-  ```
+  </pre>
   
   </details>
 </div>
@@ -173,9 +173,9 @@ I also have a fascination with machine learning and its applications. While my e
   
   <img src = "https://readme-jokes.vercel.app/api?theme=default" />
   
-  ```
+  <pre>
 Beyond Python, I have experience in C++ and Java, allowing me to broaden my horizons and tackle different types of programming challenges.
-  ```
+  </pre>
   
   </details>
 </div>
@@ -195,9 +195,9 @@ Beyond Python, I have experience in C++ and Java, allowing me to broaden my hori
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omanshu209&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
   
-  ```
+  <pre>
 Moreover, I've ventured into the world of robotics using Arduino and ESP32, enabling me to combine software and hardware to create exciting projects.
-  ```
+  </pre>
   
   </details>
 </div>
