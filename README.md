@@ -6,6 +6,10 @@
 </div>
 
 <div align = "center">
+  <hr size = "5" width = "50%">
+</div>
+
+<div align = "center">
   <details>
   
   <summary>
@@ -224,6 +228,10 @@ Moreover, I've ventured into the world of robotics using micro-controllers(µC) 
   </pre>
   
   </details>
+</div>
+
+<div align = "center">
+  <hr size = "5" width = "50%">
 </div>
 
 </html>
