@@ -52,9 +52,9 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
   <h3 align = "center">Top Repositories (Projects)
   </h3>
   
-  <a href="https://github.com/Omanshu209/HighwayHeist">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=HighwayHeist&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516"
-  href="https://github.com/Omanshu209/HighwayHeist_Game" />
+  <a href="https://github.com/Omanshu209/Highway_Heist">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Highway_Heist&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516"
+  href="https://github.com/Omanshu209/Highway_Heist" />
   </a>
   
   <a href="https://github.com/Omanshu209/ANN_ClassifierHub">
