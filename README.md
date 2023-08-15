@@ -217,7 +217,7 @@ Beyond Python, I have experience in C++ and Java, allowing me to broaden my hori
   </h2>
   </summary>
   
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omanshu209&show_icons=true&theme=dracula&locale=en&hide=issues&rank_icon=github&include_all_commits=true" alt="omanshu209" />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omanshu209&show_icons=true&theme=dracula&locale=en&rank_icon=github&include_all_commits=true" alt="omanshu209" />
   </p>
   
   <a href="http://www.github.com/Omanshu209">
