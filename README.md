@@ -85,6 +85,14 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Disney-Character-Classifier&theme=gruvbox_light" />
   </a>
   
+  <a href="https://github.com/Omanshu209/CNN-Classifier-Hub">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=CNN-Classifier-Hub&theme=gruvbox_light" />
+  </a>
+  
+  <a href="https://github.com/Omanshu209/ANN-Classifier-Hub">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=ANN-Classifier-Hub&theme=gruvbox_light" />
+  </a>
+  
   </details>
 </div>
 
