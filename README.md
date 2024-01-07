@@ -69,8 +69,8 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=PokeVinci-AI&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" />
   </a>
   
-  <a href="https://github.com/Omanshu209/ANN-Classifier-Hub">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=ANN-Classifier-Hub&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" />
+  <a href="https://github.com/Omanshu209/PyDuino-Bot-IoT">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=PyDuino-Bot-IoT&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" />
   </a>
   
   <a href="https://github.com/Omanshu209/Diagnosify-ML">
@@ -81,8 +81,8 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=ExploreWiki&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" />
   </a>
   
-  <a href="https://github.com/Omanshu209/PyDuino-Bot-IoT">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=PyDuino-Bot-IoT&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" />
+  <a href="https://github.com/Omanshu209/Disney-Character-Classifier">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Disney-Character-Classifier&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151516" />
   </a>
   
   </details>
