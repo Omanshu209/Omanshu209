@@ -68,13 +68,21 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
   <a href="https://github.com/Omanshu209/PokeVinci-AI">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=PokeVinci-AI&theme=gruvbox_light" />
   </a>
+
+   <a href="https://github.com/Omanshu209/Disney-Trailer-Hub-AI">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Disney-Trailer-Hub-AI&theme=gruvbox_light" />
+  </a>
+
+  <a href="https://github.com/Omanshu209/Securo-IoT">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Securo-IoT&theme=gruvbox_light" />
+  </a>
+
+  <a href="https://github.com/Omanshu209/CNN-Classifier-Hub">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=CNN-Classifier-Hub&theme=gruvbox_light" />
+  </a>
   
   <a href="https://github.com/Omanshu209/PyDuino-Bot-IoT">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=PyDuino-Bot-IoT&theme=gruvbox_light" />
-  </a>
-  
-  <a href="https://github.com/Omanshu209/Disney-Trailer-Hub-AI">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Disney-Trailer-Hub-AI&theme=gruvbox_light" />
   </a>
   
   <a href="https://github.com/Omanshu209/Diagnosify-KNN">
@@ -83,14 +91,6 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
   
   <a href="https://github.com/Omanshu209/ExploreWiki">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=ExploreWiki&theme=gruvbox_light" />
-  </a>
-  
-  <a href="https://github.com/Omanshu209/CNN-Classifier-Hub">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=CNN-Classifier-Hub&theme=gruvbox_light" />
-  </a>
-  
-  <a href="https://github.com/Omanshu209/ANN-Classifier-Hub">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=ANN-Classifier-Hub&theme=gruvbox_light" />
   </a>
   
   </details>
