@@ -60,37 +60,29 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
   Top Repositories (Projects)
   </h3>
   
-  <a href="https://github.com/Omanshu209/Highway-Heist">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Highway-Heist&theme=gruvbox_light"
-  href="https://github.com/Omanshu209/Highway-Heist" />
+  <a href="https://github.com/Omanshu209/Securo-IoT">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Securo-IoT&theme=gruvbox_light"
+  href="https://github.com/Omanshu209/Securo-IoT" />
   </a>
   
   <a href="https://github.com/Omanshu209/PokeVinci-AI">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=PokeVinci-AI&theme=gruvbox_light" />
   </a>
 
-   <a href="https://github.com/Omanshu209/Disney-Trailer-Hub-AI">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Disney-Trailer-Hub-AI&theme=gruvbox_light" />
+   <a href="https://github.com/Omanshu209/PyDuino-Bot-IoT">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=PyDuino-Bot-IoT&theme=gruvbox_light" />
   </a>
 
-  <a href="https://github.com/Omanshu209/Securo-IoT">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Securo-IoT&theme=gruvbox_light" />
+  <a href="https://github.com/Omanshu209/SpectraFlix">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=SpectraFlix&theme=gruvbox_light" />
   </a>
 
   <a href="https://github.com/Omanshu209/CNN-Classifier-Hub">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=CNN-Classifier-Hub&theme=gruvbox_light" />
   </a>
   
-  <a href="https://github.com/Omanshu209/PyDuino-Bot-IoT">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=PyDuino-Bot-IoT&theme=gruvbox_light" />
-  </a>
-  
-  <a href="https://github.com/Omanshu209/Diagnosify-KNN">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Diagnosify-KNN&theme=gruvbox_light" />
-  </a>
-  
-  <a href="https://github.com/Omanshu209/ExploreWiki">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=ExploreWiki&theme=gruvbox_light" />
+  <a href="https://github.com/Omanshu209/Disney-Trailer-Hub-AI">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Omanshu209&repo=Disney-Trailer-Hub-AI&theme=gruvbox_light" />
   </a>
   
   </details>
@@ -159,10 +151,6 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
@@ -174,7 +162,7 @@ Hello there! I'm a programming enthusiast with a keen interest in game developme
   </p>
   
   <pre>
-When it comes to game development, I enjoy using Pygame in Python to bring my ideas to life. I've created several projects, experimenting with different game mechanics and graphics. Additionally, I'm well-versed in app development using Kivy and KivyMD, allowing me to design and build interactive and visually appealing applications.
+When it comes to game development, I enjoy using Pygame in Python to bring my ideas to life. I've created several projects, experimenting with different game mechanics and graphics. Additionally, I'm well-versed in app development using Android, Kivy and KivyMD, allowing me to design and build interactive and visually appealing applications.
   </pre>
   
   </details>
