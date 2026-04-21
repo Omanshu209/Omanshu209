@@ -238,7 +238,7 @@ Beyond Python, I have experience in C++ and Java, allowing me to broaden my hori
   </a>
   
   <pre>
-Moreover, I've ventured into the world of robotics using micro-controllers(µC) such as Arduino and ESP32, enabling me to combine software and hardware to create exciting projects.
+Moreover, I've ventured into the world of robotics using micro-controllers(µC) such as Arduino and ESP32, enabling me to combine software and hardware to create exciting projects!
   </pre>
   
   </details>
